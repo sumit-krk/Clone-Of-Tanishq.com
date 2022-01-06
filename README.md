@@ -20,6 +20,9 @@
 ## Presentation :-
 [Demo of project](https://drive.google.com/file/d/1_aR5LT6YjRhK5Jp9VKqFnLC13iuFzsxg/view?usp=sharing)
 
+## deployment Link:-
+https://tanishqclone.herokuapp.com/index
+
 ## Contributers :- 
 - #### [Yashvant](https://www.linkedin.com/in/yashvant-kumar-gogineni-799828207/)
 - #### [Sumit](https://www.linkedin.com/in/sumitkrk//)
